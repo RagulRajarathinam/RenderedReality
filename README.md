@@ -1,4 +1,4 @@
-Rendered Reality: Real-Time Perceptual Layer
+# 📷 Rendered Reality: Real-Time Perceptual Layer
 A next-gen spatial computing engine that blends real-world inputs with augmented overlays—creating immersive, responsive environments driven by live data streams. Unlike traditional AR, Rendered Reality adapts dynamically to sensor, camera, and contextual signals to render actionable visualizations in real time.
 
 🚀 Project Goals
@@ -8,7 +8,7 @@ A next-gen spatial computing engine that blends real-world inputs with augmented
 - Architect for modular deployment across mobile, web, and XR platforms
 🔧 Tech Stack
 Unity • OpenCV • Python • WebRTC
-TensorFlow Lite • Azure Kinect SDK • • MQTT
+TensorFlow Lite • Azure Kinect SDK • MQTT
 Optional: Unreal Engine • ROS • NVIDIA Jetson
 
 📦 Installation
