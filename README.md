@@ -8,4 +8,10 @@ A next-gen spatial computing engine that blends real-world inputs with augmented
 - Architect for modular deployment across mobile, web, and XR platforms
 🔧 Tech Stack
 Unity • OpenCV • Python • WebRTC
-TensorFlow Lite • Azure Kinect SDK • 
+TensorFlow Lite • Azure Kinect SDK • • MQTT
+Optional: Unreal Engine • ROS • NVIDIA Jetson
+
+📦 Installation
+git clone https://github.com/yourusername/rendered-reality  
+cd rendered-reality  
+pip install -r requirements.txt  
